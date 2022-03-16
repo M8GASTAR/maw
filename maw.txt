@@ -1,0 +1,3 @@
+"ip":"SAGEMODE6.aternos.me",
+"port":"31350",
+"name":"kutta"
